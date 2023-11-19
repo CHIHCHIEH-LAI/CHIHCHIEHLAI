@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Map&Whether Service Android App**
 
-- 🌱 I’m currently learning **Terraform, K8s, AWS**
+- 🌱 I’m currently learning **Terraform, K8s, AWS, Docker**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/CHIHCHIEH-LAI/Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
 
