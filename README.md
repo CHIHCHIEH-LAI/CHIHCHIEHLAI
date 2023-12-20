@@ -4,11 +4,11 @@
 
 ### <div align="center">Hi 👋, I'm Chih-Chieh Lai</div>  
   
-- 🔭 I’m currently working on **Map&Whether Service Android App**  
+- 🔭 I’m currently working on [Eventbrite OAuth](https://github.com/CHIHCHIEH-LAI/EventbriteAPIHub)
 
 - 🌱 I’m currently learning **Terraform, K8s, AWS, Docker**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/CHIHCHIEH-LAI/Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
+- 👨‍💻 Some of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
