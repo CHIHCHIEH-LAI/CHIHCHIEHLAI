@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on [Eventbrite OAuth](https://github.com/CHIHCHIEH-LAI/EventbriteAPIHub)
 
-- 🌱 I’m currently learning **Terraform, K8s, AWS, Docker**
+- 🌱 I’m currently learning **FastAPI, Terraform, K8s, AWS, Docker**
 
 - 👨‍💻 Some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
