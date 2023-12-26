@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi 👋, I'm Chih-Chieh Lai</div>  
   
-- 🔭 I’m currently working on [Eventbrite OAuth](https://github.com/CHIHCHIEH-LAI/EventbriteAPIHub)
+- 🔭 I’m currently working on [trip planner](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
 
 - 🌱 I’m currently learning **FastAPI, Terraform, K8s, AWS, Docker**
 
