@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi 👋, I'm Chih-Chieh Lai</div>  
   
-- 🔭 I’m currently working on [Trip Planner](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
+- 🔭 I’m currently working on [Trip Plan Xchange App](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
 
 - 🌱 I’m currently learning **FastAPI, Terraform, K8s, AWS, Docker**
 
