@@ -53,7 +53,7 @@
 
 </td></tr></table>  
 
-## Github Stats  
+## Github Stats (public repos) 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chihchieh-lai&show_icons=true&locale=en&layout=compact" alt="chihchieh-lai" /></p> 
   
