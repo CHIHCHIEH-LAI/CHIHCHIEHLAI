@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)'s downloader service
 
-- 🌱 I’m currently learning **FastAPI, Terraform, K8s, AWS, Docker**
+- 🌱 I’m currently learning **FastAPI, Microservice, AWS, Docker, K8s, Terraform**
 
 - 👨‍💻 Some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
