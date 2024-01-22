@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi 👋, I'm Chih-Chieh Lai</div>  
   
-- 🔭 I’m currently working on [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)'s downloader service
+- 🔭 I’m currently working on [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)'s Redis Caching
 
 - 🌱 I’m currently learning **FastAPI, Microservice, AWS, Docker, K8s, Terraform**
 
