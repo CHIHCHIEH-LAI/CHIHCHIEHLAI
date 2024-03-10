@@ -5,12 +5,12 @@
 ### <div align="center">Hi 👋, I'm Chih-Chieh Lai</div>  
   
 - 🔭 I’m currently working on
-  - [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)'s Redis Caching
-  - Automated Alpha Discovery Research Model
+  - [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
+  - Automated Alpha Discovery Research Process
 
-- 🌱 I’m currently learning **FastAPI, Microservice, AWS, Docker, K8s, Terraform**
+- 🌱 I’m currently learning **FastAPI, Microservice, Alpha Research**
 
-- 👨‍💻 Some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
+- 👨‍💻 Information about some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
