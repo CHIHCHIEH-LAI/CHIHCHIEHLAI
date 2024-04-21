@@ -8,7 +8,7 @@
   - [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
   - Automated Alpha Discovery Research Process
 
-- 🌱 I’m currently learning **FastAPI, Microservice, Alpha Research**
+- 🌱 I’m currently learning **Microservice, Docker, Alpha Research**
 
 - 👨‍💻 Information about some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
