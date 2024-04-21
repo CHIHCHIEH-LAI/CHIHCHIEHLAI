@@ -6,7 +6,7 @@
   
 - I’m currently working on
   - [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
-  - Automated Alpha Discovery Research Process
+  - Automated Alpha Discovery Research Process (private repo, due to NDA)
 
 - I’m currently learning **Microservice, Docker, Alpha Research**
 
