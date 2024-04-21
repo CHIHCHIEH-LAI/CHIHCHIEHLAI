@@ -4,13 +4,15 @@
 
 ### <div align="center">Hi 👋, I'm Chih-Chieh Lai</div>  
   
-- 🔭 I’m currently working on
+- I’m currently working on
   - [Trip Plan Xchange Application](https://github.com/CHIHCHIEH-LAI/ExploreXchange)
   - Automated Alpha Discovery Research Process
 
-- 🌱 I’m currently learning **Microservice, Docker, Alpha Research**
+- I’m currently learning **Microservice, Docker, Alpha Research**
 
-- 👨‍💻 Information about some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
+- My latest finished project: https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service
+
+- Information about some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
