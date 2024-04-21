@@ -10,7 +10,7 @@
 
 - I’m currently learning **Microservice, Docker, Alpha Research**
 
-- My latest finished project: https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service
+- My latest finished project: [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service)
 
 - Information about some of my projects are available at [my portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)  
 
