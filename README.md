@@ -8,7 +8,7 @@
   - Automated Alpha Discovery Research Process (private repo, due to NDA)
 
 - I’m currently learning
-  - Microservice, Docker, Terraform, K8s
+  - Microservice, Docker, K8s, Terraform, AWS
   - Alpha Research
 
 - My latest finished project: [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service)
