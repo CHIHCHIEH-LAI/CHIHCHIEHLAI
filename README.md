@@ -6,7 +6,7 @@
   
 - I’m currently working on
   - Automated Alpha Discovery Research Process (private repo, due to NDA)
-  - [StockTrading-ConsensusRaft](https://github.com/CHIHCHIEH-LAI/PyRaft-Consensus) (Raft, gRPC, Python, Docker)
+  - [StockTrading-ConsensusRaft](https://github.com/CHIHCHIEH-LAI/PyRaft-Consensus) (Raft, gRPC, Python)
 
 - I’m currently learning
   - Microservice, Docker, K8s, Terraform, AWS
