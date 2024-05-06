@@ -55,7 +55,12 @@
 <!-- <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>   -->
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <!---
 ## Github Stats (public repos) 
