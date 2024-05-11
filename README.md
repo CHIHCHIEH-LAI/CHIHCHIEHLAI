@@ -19,5 +19,4 @@
 - Cloud: AWS EC2, Lambda, DynamoDB, RDS, ElasticCache for Redis, S3, API Gateway, load balancer
 - Architecture: distributed systems, CPU, FPGA, ASIC
 - Web Framework: FastAPI, Flask
-- IPC: RESTful API, gRPC
 
