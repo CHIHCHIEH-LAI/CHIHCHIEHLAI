@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft)
 - ⚡I've just finished working on [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service)
-- 🌱 I’m currently learning **Microserver, Docker, K8s, AWS, gRPC**
+- 🌱 I’m currently learning **Microservice, DevOps, Docker, K8s, AWS, gRPC**
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
