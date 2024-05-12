@@ -23,5 +23,5 @@
 - Cloud: AWS EC2, Lambda, DynamoDB, RDS, EKS, ElasticCache for Redis, S3, API Gateway, load balancer
 - Architecture: distributed systems, CPU, FPGA, ASIC
 - Web Framework: FastAPI, Flask
-- Container: Docker, K8s
+- DevOps: Docker, K8s, Terraform
 
