@@ -5,7 +5,7 @@
   - [Software Update SNS Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
 - ⚡I've just finished working on
   - [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft) (Python, gRPC, asyncio, Raft Consensus)
-  - [Cplusplus Low Level Client Server Communication](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, threading)
+  - [Cplusplus Low Level Client Server Communication](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool)
   - [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service) (Python, FastAPI, Docker, MySQL)
 - 🌱 I’m currently learning **Microservice, DevOps, Docker, K8s, AWS, gRPC**
 
