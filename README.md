@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CHIHCHIEH-LAI&label=Profile%20views&color=0e75b6&style=flat" alt="CHIHCHIEH-LAI" /> </p>
 
 - 🔭 I’m currently working on
-  - [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service) 's GitHub Actions CI/CD pipeline
+  - [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service)'s GitHub Actions
 - ⚡I've just finished working on
   - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
   - [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft) (Python, gRPC, asyncio, Raft Consensus)
