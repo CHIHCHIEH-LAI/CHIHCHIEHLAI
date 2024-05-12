@@ -20,7 +20,7 @@
 - Big Data: Hadoop/Spark MapReduce, PySpark, Apache Storm, MLLib
 - AI: PyTorch, scikit-learn
 - Database: MySQL, MongoDB, Neo4j, Redis, DynamoDB, PostgreSQL
-- Cloud: AWS EC2, Lambda, DynamoDB, RDS, EKS, ElasticCache for Redis, S3, API Gateway, load balancer
+- Cloud: AWS EC2, Lambda, DynamoDB, RDS, EKS, ElasticCache for Redis, S3, API Gateway, Load Balancer, SNS
 - Architecture: distributed systems, CPU, FPGA, ASIC
 - Web Framework: FastAPI, Flask
 - DevOps: Docker, K8s, Terraform
