@@ -25,5 +25,4 @@
 - Web Framework: FastAPI, Flask
 - DevOps: Docker, K8s, Terraform
 
-<img src="https://raw.githubusercontent.com/ChihChieh-lai/ChihChieh-lai/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/CHIHCHIEH-LAI/CHIHCHIEH-LAI/output/snake.svg" alt="Snake animation" />
