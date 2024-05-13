@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on
   - [Containerized FastAPI Authentication Service App](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service)'s CI/CD pipeline (GitHub Actions, CI/CD, AWS ECS)
 - ⚡I've just finished working on
+  - [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft) (Python, gRPC, asyncio, Raft Consensus)
   - [Low-Level Client-Server Communication with Load Balancing](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool, load balancer)
   - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
-  - [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft) (Python, gRPC, asyncio, Raft Consensus)
 - 🌱 I’m currently learning **Microservice, DevOps, Docker, K8s, AWS, gRPC**
 
 
