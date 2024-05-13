@@ -28,7 +28,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
-<img src="https://raw.githubusercontent.com/ChihChieh-lai/ChihChieh-lai/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChihChieh-lai/ChihChieh-lai/output/snake.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ3cnBkcHVhdmp4dzFmM3BzdzZwbWdxMXpvMjR1M3lpZzk2eXkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" alt="Cat Meme">
