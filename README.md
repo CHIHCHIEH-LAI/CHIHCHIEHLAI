@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on
   - [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft) (Python, gRPC, asyncio, Raft Consensus)
-  - [Deploying FastAPI Authentication Service to the cloud](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service) (Docker, AWS EKS)
+  - [Deploying FastAPI Authentication Service to the cloud](https://github.com/CHIHCHIEH-LAI/fastapi-authentication-service) (Docker, AWS EKS, RDS)
 - ⚡I've just finished working on
   - [Low-Level Client-Server Communication with Load Balancing](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool, load balancer)
   - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
