@@ -7,7 +7,7 @@
 - ⚡I've just finished working on
   - [Low-Level Client-Server Communication with Load Balancing](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool, load balancer)
   - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
-- 🌱 I’m currently learning **Docker, K8s, AWS, Terraform**
+- 🌱 I’m currently learning **Docker, AWS, Terraform**
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
