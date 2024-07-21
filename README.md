@@ -11,6 +11,7 @@
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
+- 📖 My Articles at [Medium](https://medium.com/@jjyyjay/showcase-of-my-technical-articles-on-medium-c17fa7861172)
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
