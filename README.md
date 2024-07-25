@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CHIHCHIEH-LAI&label=Profile%20views&color=0e75b6&style=flat" alt="CHIHCHIEH-LAI" /> </p>
 
 - 🔭 I’m currently working on
-  [Django Notification System](https://github.com/CHIHCHIEH-LAI/django-simplenotifications) (Python, Django)
+  - [Django Notification System](https://github.com/CHIHCHIEH-LAI/django-simplenotifications) (Python, Django)
+  - Customer Relationship Management System (Python, Django, Postgres, Flutter, AWS S3, RDS, Elastic Beanstalk, SES, Certificate Manager, Route53)
 - ⚡I've just finished working on
-  - [Distributed Stock Transaction Log with Raft Consensus](https://github.com/CHIHCHIEH-LAI/StockTrading-ConsensusRaft) (Python, gRPC, asyncio, Raft Consensus)
   - [Low-Level Client-Server Communication with Load Balancing](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool, load balancer)
   - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
 - 🌱 I’m currently learning **Docker, AWS, Django**
