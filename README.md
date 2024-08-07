@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Docker, AWS, Django**
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
+- 👨‍💻 Some of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
