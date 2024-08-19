@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CHIHCHIEH-LAI&label=Profile%20views&color=0e75b6&style=flat" alt="CHIHCHIEH-LAI" /> </p>
 
 - 🔭 I’m currently working on
-  - Customer Relationship Management System with separate frontend, backend, and database, enabling sign-up/sign- in, profile and purchase management, manual viewing/downloading, product activation, notifications, and Q/A chat. 
-(Python, Django, Postgres, Flutter, AWS S3, RDS, Elastic Beanstalk, SES, Certificate Manager, Route53)
+  - [Customer Relationship Management System](https://github.com/CHIHCHIEH-LAI/CRM-system/tree/main), enabling sign-up/sign- in, profile and purchase management, manual viewing/downloading, product activation, notifications, and Q/A chat. 
+(Python, Django, Postgres, Flutter, AWS)
 - ⚡I've just finished working on
   - [Low-Level Client-Server Communication with Load Balancing](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool, load balancer)
   - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
