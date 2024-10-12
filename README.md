@@ -2,15 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CHIHCHIEH-LAI&label=Profile%20views&color=0e75b6&style=flat" alt="CHIHCHIEH-LAI" /> </p>
 
 - 🔭 I’m currently working on
-  - [Customer Relationship Management System](https://github.com/CHIHCHIEH-LAI/CRM-system/tree/main), enabling sign-up/sign-in, profile and purchase management, manual viewing/downloading, product activation, notifications, and Q/A chat. 
+  - [Customer Relationship Management System](https://github.com/CHIHCHIEH-LAI/CRM-system/tree/main)'s CI/CD pipeline, alerting system and license activation
 (Python, Django, Postgres, Flutter, AWS)
-- ⚡I've just finished working on
-  - [Low-Level Client-Server Communication with Load Balancing](https://github.com/CHIHCHIEH-LAI/Cplusplus-Low-Level-Client-Server-Communication) (C++, socket, thread pool, load balancer)
-  - [Software Update Notification System](https://github.com/CHIHCHIEH-LAI/Software-Update-SNS-Notification-System) (AWS SNS, Lambda, S3, Terraform)
-- 🌱 I’m currently learning **Docker, AWS, Django**
-
-
-- 👨‍💻 Some of my projects are available at [Portfolio](https://github.com/CHIHCHIEH-LAI/Portfolio)
+- 🌱 I’m currently learning **System Design, AWS, Django**
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
