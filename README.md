@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CHIHCHIEH-LAI&label=Profile%20views&color=0e75b6&style=flat" alt="CHIHCHIEH-LAI" /> </p>
 
 - 🔭 I’m currently working on
-  - [Customer Relationship Management System](https://github.com/CHIHCHIEH-LAI/CRM-system/tree/main)'s CI/CD pipeline, alerting system and license activation
-(Python, Django, Postgres, Flutter, AWS)
-- 🌱 I’m currently learning **System Design, AWS, Django**
+  - [Customer Relationship Management System](https://github.com/CHIHCHIEH-LAI/CRM-system/tree/main)'s API Gateway
+(Python, Django, Postgres, AWS)
+- 🌱 I’m currently learning **System Design, AWS**
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
