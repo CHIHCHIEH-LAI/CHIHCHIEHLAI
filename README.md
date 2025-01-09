@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
   - [Customer Relationship Management System](https://github.com/CHIHCHIEH-LAI/CRM-system/tree/main)'s product usage tracking system
 (Python, Django, PostgreSQL, AWS, InfluxDB)
-- 🌱 I’m currently learning **System Design, K8s**
+- 🌱 I’m currently learning **System Design, Blockchain**
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
